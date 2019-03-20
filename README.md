@@ -4,7 +4,7 @@ Final Report name -
 
 Final Report slide deck -- 
 
-Initial Project Ideas -- 
+Initial Project Ideas -- https://github.com/mrn21/CapstoneProject2/blob/master/Capstone2ProjectOptions.docx
 
 Project Proposal -- https://github.com/mrn21/CapstoneProject2/blob/master/Capstone%20Project%202%20Project%20Proposal.docx
 
