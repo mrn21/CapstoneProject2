@@ -8,7 +8,7 @@ Initial Project Ideas --
 
 Project Proposal --
 
-Data Wrangling-- 
+Data Wrangling-- https://github.com/mrn21/CapstoneProject2/blob/master/Hospital_Readmission-Data-Wrangling.ipynb
 
 Exploratory Data Analysis (Inferential Statistics) -- https://github.com/mrn21/CapstoneProject2/blob/master/Hospital_Readmission-EDA.ipynb
 
