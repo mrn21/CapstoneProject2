@@ -1,6 +1,6 @@
 # CapstoneProject2
 
-Final Report name - 
+Final Report name - https://github.com/mrn21/CapstoneProject2/blob/master/Hopital%20Readmission%20Prediction%20-Data%20Science%20%20Project%20Report.pdf
 
 Final Report slide deck -- 
 
